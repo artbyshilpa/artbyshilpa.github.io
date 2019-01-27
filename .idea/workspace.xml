@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62f2c48e-38e1-4fdf-b3c2-26bd3a7601af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artbyshilpa.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/formoid/formoid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42358545-301464317344374-1632853360536526829-n-1080x809-800x599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42358545-301464317344374-1632853360536526829-n-1080x809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42440418-297574247729170-3763823224673009664-n-320x320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42629411-246321979366385-5831414050826891528-n-1080x1350-800x1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42629411-246321979366385-5831414050826891528-n-1080x1350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42668469-1836958846412035-2812343923267591291-n-1080x917-800x679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42668469-1836958846412035-2812343923267591291-n-1080x917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42811556-2111388895559374-6536303998579359026-n-750x733-750x733.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42811556-2111388895559374-6536303998579359026-n-750x733.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42869646-302040793715118-386198081977780604-n-1080x916-800x679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42869646-302040793715118-386198081977780604-n-1080x916.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42888153-2061348660844511-1116231522996512404-n-844x771-800x731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/42888153-2061348660844511-1116231522996512404-n-844x771.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43659209-2184534501799709-4033052470112462829-n-1080x810-800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43659209-2184534501799709-4033052470112462829-n-1080x810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43709215-497775004030432-6619960955066496571-n-1080x809-800x599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43709215-497775004030432-6619960955066496571-n-1080x809.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43914052-717395308616948-1321060795686120122-n-1080x810-800x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/43914052-717395308616948-1321060795686120122-n-1080x810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/44234286-2274664909436574-3713208584795169020-n-1080x1080-800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/44234286-2274664909436574-3713208584795169020-n-1080x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/44448167-308889593033562-8921605001909791555-n-1080x1350-800x1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/44448167-308889593033562-8921605001909791555-n-1080x1350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/46631358-367051883841393-6388349869218164662-n-1080x1080-800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/46631358-367051883841393-6388349869218164662-n-1080x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47583496-1256777354474504-5702004872228776593-n-1080x1080-800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47583496-1256777354474504-5702004872228776593-n-1080x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47691088-1990459537708811-4448528868589643918-n-1080x849-800x629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47691088-1990459537708811-4448528868589643918-n-1080x849.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47692677-139627376934117-3644572599715991628-n-1080x1080-800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/47692677-139627376934117-3644572599715991628-n-1080x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/hashes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" afterPath="$PROJECT_DIR$/project.mobirise" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>email</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/page1.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="artbyshilpa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artbyshilpa.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62f2c48e-38e1-4fdf-b3c2-26bd3a7601af" name="Default Changelist" comment="" />
+      <created>1548606474289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548606474289</updated>
+      <workItem from="1548606475703" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
